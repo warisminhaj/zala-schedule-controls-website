@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: zala-schedule-controls-website
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
